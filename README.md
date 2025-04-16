@@ -1,6 +1,7 @@
 # Calculadora Python com PySide6
 
 Uma calculadora moderna e funcional desenvolvida em Python utilizando a biblioteca PySide6 para a interface gráfica.
+
 ![1744809007439](image/README/1744809007439.png)
 
 ## ✨ Funcionalidades
